@@ -18,11 +18,11 @@ Below are some sample examples from the dataset to give users a better idea of i
 ![Sample 1](images/visdata.png)
 - Description: This sample shows [what the image/data represents]. The corresponding label is [label name or value].
 
-> ### Sample 2
-> ![Sample 2](images/sample_image2.png)
-> - Description: This sample demonstrates [what the image/data represents]. The label is [label name or value].
+<!-- ### Sample 2 -->
+<!-- ![Sample 2](images/sample_image2.png) -->
+<!-- - Description: This sample demonstrates [what the image/data represents]. The label is [label name or value]. -->
 
-> You can explore more samples by downloading the full dataset from [link to the dataset].
+<!-- You can explore more samples by downloading the full dataset from [link to the dataset]. -->
 
 ## 3. Installation & Usage
 
