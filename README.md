@@ -15,7 +15,7 @@ Provide detailed information about the dataset, including:
 Below are some sample examples from the dataset to give users a better idea of its structure and content.
 
 ### Sample 1
-![Sample 1](images/场景可视化.png)
+![Sample 1](images/visdata.png)
 - Description: This sample shows [what the image/data represents]. The corresponding label is [label name or value].
 
 ### Sample 2
