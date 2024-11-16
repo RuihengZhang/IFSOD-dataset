@@ -24,11 +24,27 @@ Below are some sample examples from the dataset to give users a better idea of i
 
 <!-- You can explore more samples by downloading the full dataset from [link to the dataset]. -->
 
-## 3. Installation & Usage
+## 3. Split
 
-### Installing Dependencies
-
-To ensure that the environment is properly set up, we recommend installing the required dependencies:
-
-```bash
-pip install -r requirements.txt
+| Class        | Split I                        | Split II                       | Split III                     |
+|--------------|--------------------------------|--------------------------------|-------------------------------|
+| **Base Class** |                                |                                |                               |
+|              | Armored Car (217)              | Kettle (122)                   | People (14860)                |
+|              | Car (4167)                     | Pram (196)                     | Umbrella (217)                |
+|              | Bike (716)                     | Goose (193)                    | Luggage (614)                 |
+|              | Dog (166)                      | Bus (510)                      | Bike (716)                    |
+|              | People (14860)                 | Dog (166)                      | Pram (196)                    |
+|              | Switching (241)                | Car (4167)                     | Etricycle (262)               |
+|              | Truck (153)                    | Duck (112)                     | Ebike (568)                   |
+|              | Tricycle (139)                 | Switching (241)                | Car (4167)                    |
+|              | Goose (193)                    | People (14860)                 | Duck (112)                    |
+|              | Kettle (122)                   | Tricycle (139)                 | Kettle (122)                  |
+|              | Etricycle (262)                | Ebike (568)                    | Truck (153)                   |
+|              | Umbrella (217)                 | Etricycle (262)                | Armored Car (217)             |
+|              | Guidepost (240)                | Umbrella (217)                 | Guidepost (240)               |
+| **Novel Class** |                             |                                |                               |
+|              | Duck (10)                      | Armored Car (10)               | Bus (10)                      |
+|              | Ebike (10)                     | Truck (10)                     | Switching (10)                |
+|              | Pram (10)                      | Bike (10)                      | Tricycle (10)                 |
+|              | Bus (10)                       | Luggage (10)                   | Dog (10)                      |
+|              | Luggage (10)                   | Guidepost (10)                 | Goose (10)                    |
