@@ -1,0 +1,21 @@
+<annotation>
+  <folder>G:\python_projects\allifrdata</folder>
+  <filename>002059.jpg</filename>
+  <size>
+    <width>629</width>
+    <height>459</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>people</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>585.0</xmin>
+      <ymin>223.0</ymin>
+      <xmax>627.0</xmax>
+      <ymax>343.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,10 @@
+datasets/IOD/JPEGImages/000125.jpg
+datasets/IOD/JPEGImages/000346.jpg
+datasets/IOD/JPEGImages/000324.jpg
+datasets/IOD/JPEGImages/000014.jpg
+datasets/IOD/JPEGImages/000421.jpg
+datasets/IOD/JPEGImages/000124.jpg
+datasets/IOD/JPEGImages/000428.jpg
+datasets/IOD/JPEGImages/000670.jpg
+datasets/IOD/JPEGImages/000439.jpg
+datasets/IOD/JPEGImages/000017.jpg
