@@ -62,7 +62,7 @@ The table below provides a comparison of different datasets, including their ima
 
 ## 5. Performance Comparison Table
 
-This table compares the performance of different methods across three novel splits. Results are given for various numbers of shots (1, 2, 3, 5, 10). The best results are highlighted in **red**, and the second-best results are highlighted in **blue**.
+This table compares the performance of different methods across three novel splits. Results are given for various numbers of shots (1, 2, 3, 5, 10). The best results and the second-best results are highlighted in **bold**.
 
 | Method              | Venue      | Backbone   | 1   | 2   | 3   | 5   | 10   | 1   | 2   | 3   | 5   | 10   | 1   | 2   | 3   | 5   | 10   |
 |---------------------|------------|------------|-----|-----|-----|-----|-------|-----|-----|-----|-----|-------|-----|-----|-----|-----|-------|
