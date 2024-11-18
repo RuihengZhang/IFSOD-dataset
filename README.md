@@ -48,3 +48,15 @@ Below are some sample examples from the dataset to give users a better idea of i
 |              | Pram (10)                      | Bike (10)                      | Tricycle (10)                 |
 |              | Bus (10)                       | Luggage (10)                   | Dog (10)                      |
 |              | Luggage (10)                   | Guidepost (10)                 | Goose (10)                    |
+
+## 4. Dataset Comparison Table
+
+The table below provides a comparison of different datasets, including their images, instances, resolution, and other attributes.
+
+| Dataset      | Images   | Instances | Resolution      | Instance Density | Classes | Scenes | Meaningless Classes | Unresolved Classes |
+|--------------|----------|-----------|-----------------|------------------|---------|--------|---------------------|--------------------|
+| **RGB-T234** | 233,928  | 116,660   | (628,459)       | 0.500            | 145     | 8      | 60                  | 43                 |
+| **M3FD**     | 9,200    | 34,408    | (1001,744)      | 3.74             | 6       | 13     | 0                   | 0                  |
+| **LLVIP**    | 15,485   | 41,579    | (1028,1024)     | 2.685            | 1       | 7      | 0                   | 0                  |
+| **IFSOD-dataset (Ours)** | 4,815   | 23,333    | (662,489)       | 4.846            | 18      | 12     | 0                   | 0                  |
+
