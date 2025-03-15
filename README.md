@@ -107,26 +107,10 @@ IFSOD-dataset/
 ```diff
 ! Access Options:
 + Baidu Cloud: [Link](https://pan.baidu.com/...)
-+ IEEE DataPort: [Mirror](https://ieee-dataport.org/...)
 ```
 
 ---
 
-##  Technical Highlights
-```python
-class IFSODBenchmark:
-def __init__(self):
-self.diversity = { # Scenario variety
-'illumination': ['day', 'night', 'twilight'],
-'scale_variation': '1:8',
-'occlusion_levels': 4
-}
-
-def quality_control(self): # Annotation protocol
-return VOC_AP @ 0.5 = 98.7% # 3-stage verification
-```
-
----
 
 ##  Citation
 <div align="center">
