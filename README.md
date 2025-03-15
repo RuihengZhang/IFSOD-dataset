@@ -129,4 +129,3 @@ doi = {10.1109/TGRS.2025.3540945}
 ```
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3540945-blue)](https://doi.org/10.1109/TGRS.2025.3540945)
 </div>
-``
