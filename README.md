@@ -85,3 +85,18 @@ This table compares the performance of different methods across three novel spli
 > **Important**: The dataset is available for download from the link below. Make sure to cite this dataset if you use it in your research.
 
 [**Baidu yunpan**]( )
+
+## 6. Reference
+If you want to follow this work, please cite this paper:
+> @ARTICLE{10879460,
+  author={Zhang, Ruiheng and Yang, Biwen and Xu, Lixin and Huang, Yan and Xu, Xiaofeng and Zhang, Qi and Jiang, Zhizhuo and Liu, Yu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Benchmark and Frequency Compression Method for Infrared Few-Shot Object Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-11},
+  keywords={Frequency-domain analysis;Training;Feature extraction;Measurement;Benchmark testing;Prototypes;Geoscience and remote sensing;Discrete cosine transforms;Annotations;YOLO;Dataset;few-shot learning;frequency learning;infrared object detection},
+  doi={10.1109/TGRS.2025.3540945}}
+
+
