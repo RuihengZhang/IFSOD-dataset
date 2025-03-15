@@ -1,4 +1,4 @@
-# 🛰️ IFSOD: Infrared Few-Shot Object Detection Benchmark
+#  IFSOD: Infrared Few-Shot Object Detection Benchmark
 
 [![IEEE Publication](https://img.shields.io/badge/IEEE%20TGRS-2025-%2300599C?logo=ieee)](https://ieeexplore.ieee.org/document/10879460)
 [![Dataset Scale](https://img.shields.io/badge/Images-4.8K+-orange)](https://doi.org/10.1109/TGRS.2025.3540945)
