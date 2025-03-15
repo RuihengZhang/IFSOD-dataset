@@ -92,7 +92,7 @@ IFSOD-dataset/
 ##  Benchmark Comparison
 <div align="center">
 
-| Dataset | <img src="https://img.icons8.com/color/48/image.png" width=20> Images | <img src="https://img.icons8.com/color/48/marker.png" width=20> Instances | <img src="https://img.icons8.com/color/48/classes.png" width=20> Classes |
+| Dataset |  Images |  Instances |  Classes |
 |---------------|:-------:|:---------:|:-------:|
 | RGB-T234 | 233,928 | 116,660 | 145 |
 | M3FD | 9,200 | 34,408 | 6 |
