@@ -86,17 +86,25 @@ This table compares the performance of different methods across three novel spli
 
 [**Baidu yunpan**]( )
 
-## 6. Reference
-If you want to follow this work, please cite this paper:
-> @ARTICLE{10879460,
-  author={Zhang, Ruiheng and Yang, Biwen and Xu, Lixin and Huang, Yan and Xu, Xiaofeng and Zhang, Qi and Jiang, Zhizhuo and Liu, Yu},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={A Benchmark and Frequency Compression Method for Infrared Few-Shot Object Detection}, 
-  year={2025},
-  volume={63},
-  number={},
-  pages={1-11},
-  keywords={Frequency-domain analysis;Training;Feature extraction;Measurement;Benchmark testing;Prototypes;Geoscience and remote sensing;Discrete cosine transforms;Annotations;YOLO;Dataset;few-shot learning;frequency learning;infrared object detection},
-  doi={10.1109/TGRS.2025.3540945}}
+## 6. Citation
+
+If you find this benchmark or frequency compression method useful, please cite:
+
+**A Benchmark and Frequency Compression Method for Infrared Few-Shot Object Detection**  
+**R. Zhang, B. Yang, L. Xu, Y. Huang, X. Xu, Q. Zhang, Z. Jiang, Y. Liu**  
+*IEEE Transactions on Geoscience and Remote Sensing*, vol.63, pp.1-11, 2025  
+[[DOI]](https://doi.org/10.1109/TGRS.2025.3540945)  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10879460)
+
+```bibtex
+@article{zhang2025benchmark,
+  title     = {A Benchmark and Frequency Compression Method for Infrared Few-Shot Object Detection},
+  author    = {Zhang, Ruiheng and Yang, Biwen and Xu, Lixin and Huang, Yan and Xu, Xiaofeng and Zhang, Qi and Jiang, Zhizhuo and Liu, Yu},
+  journal   = {IEEE Transactions on Geoscience and Remote Sensing},
+  year      = {2025},
+  volume    = {63},
+  pages     = {1--11},
+  doi       = {10.1109/TGRS.2025.3540945},
+  issn      = {1558-0644}
+}
 
 
