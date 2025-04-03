@@ -22,13 +22,15 @@
 ##  Dataset Structure
 ```bash
 IFSOD-dataset/
-├── annotations/ # PASCAL VOC format XMLs
-├── images/ # 8-bit grayscale JPGs
+├── Infrared Few-shot Object Detection
+│ ├── Annotations/ # PASCAL VOC format XMLs
+│ ├── ImageSets/ # 8-bit grayscale JPGs
+│ ├── JPEGImages
 ├── splits/ # Partition schemes
-│ ├── split1/ # Partition I
-│ ├── split2/ # Partition II
-│ └── split3/ # Partition III
-└── README.md # Documentation
+│ ├── seed0/ 
+│ ├── seed1/ 
+│ └── seed2/ 
+│ └── ....../ 
 ```
 
 ---
@@ -106,7 +108,7 @@ IFSOD-dataset/
 ##  Download
 ```diff
 ! Access Options:
-+ Baidu Cloud: [Link](https://pan.baidu.com/...)
++ Baidu Cloud: [Link]([https://pan.baidu.com/s/1kTlkYcf2g2XrGGFFiT6RfA?pwd=yq3m])
 ```
 
 ---
