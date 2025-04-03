@@ -106,7 +106,7 @@ Following the setting of [Fsdet](https://github.com/ucbdrive/few-shot-object-det
 ---
 
 ##  Download
-[Baidu Cloud](https://pan.baidu.com/s/1kTlkYcf2g2XrGGFFiT6RfA?pwd=yq3m)
+[Baidu Cloud](https://pan.baidu.com/s/1bcTYWaEfgjJNlq1doq98ow?pwd=iz9p)
 
 
 ---
