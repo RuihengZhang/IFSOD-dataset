@@ -107,8 +107,7 @@ IFSOD-dataset/
 
 ##  Download
 ```diff
-! Access Options:
-+ Baidu Cloud: [Link]([https://pan.baidu.com/s/1kTlkYcf2g2XrGGFFiT6RfA?pwd=yq3m])
+[Link]([Baidu Cloud](https://pan.baidu.com/s/1kTlkYcf2g2XrGGFFiT6RfA?pwd=yq3m))
 ```
 
 ---
