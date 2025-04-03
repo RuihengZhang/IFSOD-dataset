@@ -23,8 +23,8 @@
 ```bash
 IFSOD-dataset/
 ├── Infrared Few-shot Object Detection
-│ ├── Annotations/ # PASCAL VOC format XMLs
-│ ├── ImageSets/ # 8-bit grayscale JPGs
+│ ├── Annotations/ 
+│ ├── ImageSets/ 
 │ ├── JPEGImages
 ├── splits/ # Partition schemes
 │ ├── seed0/ 
